@@ -8,7 +8,7 @@ chardet==3.0.4
 colorama==0.4.1
 discord==1.0.1
 discord.py==1.0.1
-Django==2.2.3
+Django==2.2.13
 idna==2.8
 idna-ssl==1.1.0
 keyboard==0.13.3
